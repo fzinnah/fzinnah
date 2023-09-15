@@ -1,7 +1,4 @@
-### Hi there 👋
-Certainly! Below is a template for a GitHub README that you can use as a starting point. Given your background in options trading, coding bootcamp, and interests in software engineering and human psychology, I've tried to incorporate elements that would highlight these aspects.
 
-```markdown
 # Hello, I'm Forhad 👋
 
 ![Banner Image](your-banner-image-url)
