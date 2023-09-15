@@ -39,13 +39,7 @@ I'm a self-taught options trader turned coding bootcamp graduate, looking to emb
 ---
 
 ⭐️ From [fzinnah](https://github.com/fzinnah)
-```
 
-
-
-<!--
-**fzinnah/fzinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -56,3 +50,4 @@ I'm a self-taught options trader turned coding bootcamp graduate, looking to emb
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+```
