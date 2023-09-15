@@ -41,19 +41,7 @@ I'm a self-taught options trader turned coding bootcamp graduate, looking to emb
 ⭐️ From [fzinnah](https://github.com/fzinnah)
 ```
 
-### Instructions:
 
-1. **Replace the placeholders** like `[Your Name]`, `[Project URL]`, `your-banner-image-url` with your actual information.
-  
-2. **Add or Remove Shields**: The shields/badges for technologies can be customized as per your skills. Visit [Shields.io](https://shields.io/) for more options.
-  
-3. **Personalize the Projects and Blogs section**: Add real project and blog links and details.
-
-4. **Personal Interests and Trading Background**: These are currently aligned with your stated interests. Feel free to expand on these sections to add more detail or stories.
-
-5. **Social Media Links**: Replace the LinkedIn and Twitter URLs with your own.
-
-6. **Banner Image**: Create or find an image that represents you and your work. Use it as a banner to make your README visually appealing.
 
 <!--
 **fzinnah/fzinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
