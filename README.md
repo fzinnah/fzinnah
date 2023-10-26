@@ -42,10 +42,10 @@ I'm a self-taught options trader turned coding bootcamp graduate, looking to emb
 
 
 - 🔭 I’m currently working on learning Websocket using Socket.io in a real-time chat messaging application using the PERN stack
-- 🌱 I’m currently learning the inner workings of JavaScript, how things work under-the-hood. TypeScript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning the inner workings of JavaScript, how things work under-the-hood. and TypeScript, and WebSockets.
+- 👯 I’m looking to collaborate on building anything really. I want to taste the different flavors before focusing on going deep. T-shaped.
+- 🤔 I’m looking for help AI 
+- 💬 Ask me about trading small cap equities, technical analysis, options, the human experience.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a huge dog lover 🐶
