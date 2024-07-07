@@ -1,7 +1,6 @@
 
 # Hello, I'm Forhad 👋
 
-![Banner Image](your-banner-image-url)
 
 I'm a self-taught options trader turned coding bootcamp graduate, turned Electrical Engineering student looking to embark on a new journey in software / hardware engineering. 
 
