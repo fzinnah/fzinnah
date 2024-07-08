@@ -31,6 +31,5 @@ I'm a self-taught options trader turned coding bootcamp graduate, turned Electri
 
 ⭐️ From [fzinnah](https://github.com/fzinnah)
 
-- ⚡ Fun fact: I am a huge dog lover 🐶
 
 ```
