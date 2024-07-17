@@ -1,3 +1,4 @@
+# Forhad Zinnah 
 # 🚀 My Journey 
 
 ## 🍹 Bartender/Waiter (2012 - 2020)
@@ -53,5 +54,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah&layout=compact)
 
 ## 📫 Connect With Me
-- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/forhad-zinnah/)]
+- LinkedIn: [(https://www.linkedin.com/in/forhad-zinnah/)]
 - Email: FIRSTNAMELASTNAME@gmail.com 
