@@ -1,35 +1,57 @@
+# 🚀 My Journey 
 
-# Hello, I'm Forhad 👋
+## 🍹 Bartender/Waiter (2012 - 2020)
+- Honed customer service skills
+- Developed multitasking abilities
+- Built resilience in a fast-paced environment
 
+## 📊 Self-Taught Trader (2017 - Present)
+- Mastering equities and options trading
+- Developing market analysis skills
+- Practicing risk management strategies
 
-I'm a self-taught options trader turned coding bootcamp graduate, turned Electrical Engineering student looking to embark on a new journey in software / hardware engineering. 
+## 💻 Fullstack Academy (2022 - 2023)
+- Completed intensive Software Engineering bootcamp
+- Learned PERN stack (PostgreSQL, Express, React, Node.js)
+- Built full-stack web applications
 
----
+## 🧠 DS&A and Job Hunt (Apr 2023 - Dec 2023)
+- Mastered Data Structures and Algorithms
+- Practiced on LeetCode and AlgoExpert.io
+- Studied "Grokking Algorithms" and "Cracking the Coding Interview"
+- Actively job searched in tech industry
 
-## 🔧 Technologies & Tools
+## 🎓 B.S. Electrical Engineering (Jan 2024 - Present)
+- Studying Circuit Theory and Signal Processing
+- Learning Control Systems
+- Applying software skills to hardware problems
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+## 🛠️ Expanding Tech Stack
+- Languages: JavaScript, Python, C, C++, Go
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- Databases: PostgreSQL
+- Other: Git, RESTful APIs, CLI
 
----
+## 🔧 Hardware Focus
+- Exploring electronics from the ground up
+- Designing circuits
+- Working with microcontrollers
 
-## 📈 Trading Background
+## 🔬 Tech Goals
+- Integrating software and hardware solutions
+- Exploring emerging technology domains
+- Applying CS principles to EE problems
 
-📊 Self-taught equities and options trader  
-📚 Developed trading algorithms and strategies  
+## 🌱 Future Learning Targets
+- Edge Computing
+- AI / ML 
+- Security Best Practices
+- IoT Solutions
 
----
+## 📈 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzinnah&layout=compact)
 
-
-## 📬 Get in Touch
-
-- LinkedIn: [linkedin.com/in/forhad-zinnah](https://linkedin.com)
-- Email: forhadzinnah@gmail.com
-
----
-
-⭐️ From [fzinnah](https://github.com/fzinnah)
-
-
-```
+## 📫 Connect With Me
+- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/forhad-zinnah/)]
+- Email: FIRSTNAMELASTNAME@gmail.com 
