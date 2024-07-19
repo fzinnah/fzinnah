@@ -17,7 +17,7 @@
 - Built full-stack web applications
 
 ## 🧠 DS&A and Job Hunt (Apr 2023 - Dec 2023)
-- Mastered Data Structures and Algorithms
+- Honed in on Data Structures and Algorithms
 - Practiced on LeetCode and AlgoExpert.io
 - Studied "Grokking Algorithms" and "Cracking the Coding Interview"
 - Actively job searched in tech industry
