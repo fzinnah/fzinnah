@@ -23,19 +23,17 @@
 - Actively job searched in tech industry
 
 ## 🎓 B.S. Electrical Engineering (Jan 2024 - Present)
-- Studying Circuit Theory and Signal Processing
-- Learning Control Systems
-- Applying software skills to hardware problems
+- Calc I, Intro to Programming (C++)
 
 ## 🛠️ Expanding Tech Stack
-- Languages: JavaScript, Python, C, C++, Go
+- Languages: JavaScript, Python, C, C++
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Express
 - Databases: PostgreSQL
 - Other: Git, RESTful APIs, CLI
 
 ## 🔧 Hardware Focus
-- Exploring electronics from the ground up
+- Exploring electronics from the ground up w/ Make: Electronics 
 - Designing circuits
 - Working with microcontrollers
 
@@ -46,7 +44,6 @@
 
 ## 🌱 Future Learning Targets
 - Edge Computing
-- AI / ML 
 - Security Best Practices
 - IoT Solutions
 
